@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Time Logger</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_new">New</string>
+    <string name="blank"></string>
+    
+    <string name="label_1">Test btn</string>
+
+</resources>
